@@ -11,3 +11,6 @@
 - cargar, guardar y cambiar entre base de datos que seria como archivos save en una carpeta propia asi el usuario puede tener todas las que quiera.
 - Internalización / Regionalización estilo gettext basada en locales. Extra: Puede que poder elegir el idioma de la interfaz en las opciones.
 - Añadir accesos directos (hotkeys)
+- Â¿Mostrar una imagen de Splash?
+- Dejar claro los temas de licencia.
+- Opcional: Plantillas de idiomas, niveles configurables.
